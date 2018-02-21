@@ -1,0 +1,26 @@
+body {background-image: url('gr.jpg');
+     background-size: 100% 475px;
+     background-repeat: no-repeat;}
+     li{list-style: none;
+        font-size: 20px;
+        padding: 8px 18px;
+        display: inline;
+        color: black;
+        text-decoration-style: none;
+    }
+        @font-face{font-family:"mfjuly";
+                    src: url('WaitingfortheSunrise.ttf')} 
+
+        li a{text-decoration-style: none;}
+        .alfa{float: left;
+              margin-top: 25px;
+              opacity: 0.9;
+              margin-top: 10px;
+              margin-bottom: 250px;
+             }
+             li{font-family: mfjuly;}
+              li a:hover{color: ;
+                display: block-inline;
+              }
+            
+

@@ -1,0 +1,94 @@
+body{background-repeat: no-repeat;
+     padding: 0px;
+     margin: 0px;
+     background-attachment: fixed;
+     background-size: cover;
+     z-index: -1;
+     }
+     .container{ width: 600px;
+                height: 500px;
+                text-align: center;
+                margin:0 auto; 
+              margin-top: 100px;
+              border-radius: 4px;
+              background-color: rgba(52,73,94,0.7);}
+              .container img{width: 120px;
+                             height: 120px;
+                             margin-top: -60px;
+                             margin-bottom: : 30px;
+                             border-radius: 100%;
+                             }
+                             input{height: 45px;
+                                   width: 300px;
+                                   font-size:15px;
+                                   margin-bottom: 20px;
+                                   background-color: #fff;
+                                   padding-left: 40px;}
+                                   .form-input::before{content: "";
+                                                      position: absolute;
+                                                      font-family: "FontAwesome";
+                                                      font-size: 30px;
+                                                      padding-left: 5px;
+                                                      padding-top: 5px;
+                                                      font-size: 25px;
+                                                      color: ;
+
+                                                  }
+                                                  .btn-lo{
+                                                  	 background-color: #16a085;
+                                                  	 border-radius: 100px;
+                                                  	 border: none;
+                                                     font-size: 20px;
+                                                  	 height: 70px;
+                                                  	 width: 70px;
+
+                                                  }
+                                              span {padding: 7px 7px;}
+                                              .sign_up{border-radius: 5px;
+                                                opacity: 0.9;
+                                                       background:rgba(52,73,94,0.7); ;
+                                                       padding: 0;
+                                                       width: 800px;
+                                                       height: 550px;
+                                                       margin: auto;
+                                                      color: #fff;
+                                                      font-size: 16px;
+                                                      font-family: verdana;
+                                                      margin-top: 100px;
+                                                      text-align: center;}
+                                                .sign_up h1{text-align: center;
+                                                            margin: 0;
+                                                            margin-top: 35px;}
+                                                            
+                                                            .sign_up input, select{padding: 12px 20px;
+                                                                                  opacity: 0.9;
+                                                                                   display: inline-block;
+                                                                                   margin: 8px 0px;
+                                                                                  border: 1px solid #ccc;
+                                                                                  border-radius: 30px;
+                                                                                  box-sizing: border-box;
+                                                                                  font-size:15px;
+                                                                                  background: black;
+                                                                                  color: white;
+
+                                                            }
+                                                            .sign_up input[type=submit]{width: 50%;
+                                                                                        border:none;
+                                                                                        cursor: pointer;
+                                                                                        }
+                                                                  #fname{height: 45px;width: 300px;}
+                                                                  #lname{height: 45px;width: 300px;}
+                                                                  #email{height: 45px;width: 300px;}
+                                                                  #repass{height: 45px;width: 300px;}
+                                                                  input [type=submit]:hover{background-color:rgba(52,73,94,0.7);
+                                                                                            transition: 0.6s;}
+                                                                    option{color: white;
+                                                                      background-color: black;
+                                                                      font-size: 15px;
+                                                                      opacity: 0.9;}
+                                                                      .sign_up img{width: 120px;
+                                                                        height: 120px;
+                                                                        margin-top: -60px;
+                                                                        margin-bottom: : 30px;
+                                                                        border-radius: 100%;
+                             }
